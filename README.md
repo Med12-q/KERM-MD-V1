@@ -107,7 +107,7 @@ https://github.com/kermtech6/KERM-X-SILENT-MD
   <table>
     <tr>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/kermtech6/KERM-X-SILENT-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-      <td><a href="https://kermhosting.site" target="_blank"><img src="https://img.shields.io/badge/KermHosting-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://kermhosting.site/bot?open=f9275be0-e361-42b4-8b78-3b1e0823b678" target="_blank"><img src="https://img.shields.io/badge/KermHosting-6971FF?style=for-the-badge&logo=robot&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=kermtech6/KERM-X-SILENT-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
