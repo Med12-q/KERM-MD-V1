@@ -27,24 +27,24 @@ https://github.com/kermtech6/KERM-X-SILENCE-MD
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=KERM-X-SILENCE-MD;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+LORD+KERM;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=KERM-X-SILENT-MD;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+LORD+KERM;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
   <a href="https://github.com/kermtech6/followers"><img title="Followers" src="https://img.shields.io/github/followers/kermtech6?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/kermtech6/KERM-X-SILENCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kermtech6/KERM-X-SILENCE-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/kermtech6/KERM-X-SILENCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kermtech6/KERM-X-SILENCE-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/kermtech6/KERM-X-SILENCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/kermtech6/KERM-X-SILENCE-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/kermtech6/KERM-X-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-kermtech6-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/kermtech6/KERM-X-SILENT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/kermtech6/KERM-X-SILENT-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/kermtech6/KERM-X-SILENT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kermtech6/KERM-X-SILENT-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/kermtech6/KERM-X-SILENT-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/kermtech6/KERM-X-SILENT-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/kermtech6/KERM-X-SILENT-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-kermtech6-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KERM-X-SILENCE-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=KERM-X-SILENT-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 ---------
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+KERM-X-SILENCE-MD;IS+THE+UPDATE+VERSION;OF+KERM-MD-V1;BEST+MULTI+DEVICE+BOT;CREATED+BY+KERM+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+KERM-X-SILENT-MD;IS+THE+UPDATE+VERSION;OF+KERM-MD-V1;BEST+MULTI+DEVICE+BOT;CREATED+BY+KERM+TECH" alt="Typing SVG" /></a>
   </p>
   
 
@@ -63,9 +63,9 @@ https://github.com/kermtech6/KERM-X-SILENCE-MD
 
 -----------
 
-**`🔷 FORK 🍴 AND STAR ⭐ KERM-X-SILENCE-MD 🔷`**
+**`🔷 FORK 🍴 AND STAR ⭐ KERM-X-SILENT-MD 🔷`**
 
-  <a href="https://github.com/kermtech6/KERM-X-SILENCE-MD/fork"><img title="KERM-X-SILENCE-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/kermtech6/KERM-X-SILENT-MD/fork"><img title="KERM-X-SILENT-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### <br>02.  ❖ 𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍-𝐈'𝐃 ❖
 
@@ -96,7 +96,7 @@ https://github.com/kermtech6/KERM-X-SILENCE-MD
 
 ---
 
-### <br>03.  ❖ KERM-X-SILENCE-MD DEPLOYEMENTS 𝐒𝐎𝐔𝐑𝐂𝐄'𝐒 ❖
+### <br>03.  ❖ KERM-X-SILENT-MD DEPLOYEMENTS 𝐒𝐎𝐔𝐑𝐂𝐄'𝐒 ❖
 
 ---
 
@@ -106,11 +106,11 @@ https://github.com/kermtech6/KERM-X-SILENCE-MD
 
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/kermtech6/KERM-X-SILENCE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/kermtech6/KERM-X-SILENT-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://kermhosting.site" target="_blank"><img src="https://img.shields.io/badge/KermHosting-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=kermtech6/KERM-X-SILENCE-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=kermtech6/KERM-X-SILENT-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -184,11 +184,11 @@ jobs:
 ---------
 
 <p align="">
-<a href='https://wa.me/+237659535227?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+KERM-X-SILENCE+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+237659535227?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+KERM-X-SILENT+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## ⚖️ ✠ KERM-X-SILENCE-MD SUPPORT ✠
+## ⚖️ ✠ KERM-X-SILENT-MD SUPPORT ✠
 
 --------
 `✠ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY OF KERM-X-SILENCE-MD BY JOINING OUR OFFICIAL WHATSAPP CHANNEL.✠`
