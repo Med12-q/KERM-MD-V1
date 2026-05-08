@@ -1,21 +1,8 @@
-**This project is no longer alive.
-It exists now only in memories, in lines of code that will never change again.💔**
-
-----
-
-**This project has been laid to rest.
-It carried dreams, late nights, and quiet hopes… now it sleeps forever.🥀**
-
--------
-
-**This is where it ends.
-Not with completion, but with silence.❤️‍🩹**
-
-`© •  SILENT LOVER 432 💫🤍`
+`© •  LORD KERM TECH 💫🤍`
 
 ----------
 
-**♦️𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐃𝐀𝐑𝐊-𝐒𝐈𝐋𝐄𝐍𝐂𝐄-𝐌𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐓𝐇𝐈𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐓𝐎 𝐔𝐒𝐄 𝐒𝐈𝐋𝐄𝐍𝐓-𝐒𝐎𝐁𝐗-𝐌𝐃 𝐁𝐀𝐈𝐋𝐘𝐒,𝐓𝐇𝐈𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐈𝐒 𝐍𝐎𝐖 𝐀𝐋𝐋𝐎𝐖𝐄𝐃 𝐓𝐎 𝐔𝐒𝐄 𝐖𝐈𝐓𝐇𝐎𝐔𝐓 𝐀𝐍𝐘 𝐁𝐔𝐆♦️**
+**♦️𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 KERM-X-SILENT-MD 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐓𝐇𝐈𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐓𝐎 𝐔𝐒𝐄 KERM-MD-V1 𝐁𝐀𝐈𝐋𝐘𝐒,𝐓𝐇𝐈𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐈𝐒 𝐍𝐎𝐖 𝐀𝐋𝐋𝐎𝐖𝐄𝐃 𝐓𝐎 𝐔𝐒𝐄 𝐖𝐈𝐓𝐇𝐎𝐔𝐓 𝐀𝐍𝐘 𝐁𝐔𝐆♦️**
 
 -----------
 
