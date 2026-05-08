@@ -14,11 +14,11 @@
 **`USE THIS LINK 🔗 FOR OTHER 🍽️ PLATFORMS TO DEPLOY KERM-X-SILENCE-MD 🩶`**
 
 ```
-https://github.com/kermtech6/KERM-X-SILENCE-MD
+https://github.com/kermtech6/KERM-X-SILENT-MD
 ```
 -------
 
-> **KERM-X-SILENCE-MD VERSION ➜ `2.0 ♻️`**
+> **KERM-X-SILENT-MD VERSION ➜ `2.0 ♻️`**
 --------
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -65,7 +65,7 @@ https://github.com/kermtech6/KERM-X-SILENCE-MD
 
 **`🔷 FORK 🍴 AND STAR ⭐ KERM-X-SILENT-MD 🔷`**
 
-  <a href="https://github.com/kermtech6/KERM-X-SILENT-MD/fork"><img title="KERM-X-SILENT-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/kermtech6/KERM-X-SILENT-MD/fork"><img title="KERM-X-SILENT-MD" src="https://img.shields.io/badge/FORK-KERM%20SILENT%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### <br>02.  ❖ 𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍-𝐈'𝐃 ❖
 
