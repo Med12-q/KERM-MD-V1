@@ -23,7 +23,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "_Hi bro am alive now🥷🏽🤝🏾._"
+      "value": "HI DEAR USER KERM-MD ALIVE NOW POWERED BY LORD KERM 🤍💫💨."
     },
     
     "PREFIX": {
@@ -41,13 +41,13 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
@@ -59,8 +59,26 @@
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
+
+     "AUTO_REPLY_STATUS": {
+      "description": "you can true or false it.",
+      "required": false,
+      "value": "false"
+    },
+
+    "STATUS_REPLY": {
+      "description": "enter your caption if you want to show on status reply.",
+      "required": false,
+      "value": "🂱 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄𝐍 𝐀𝐍𝐃 𝐋𝐈𝐊𝐄 𝐉𝐔𝐒𝐓 𝐍𝐎𝐖 BY ✭𝙺𝙴𝚁𝙼 𝙼𝙳✭ 🂱"
+    },
+
+    "STATUS_REACT": {
+      "description": "make it true if you want to show on status react.",
+      "required": false,
+      "value": "false"
+    },
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -77,12 +95,24 @@
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": false,
+      "value": "false"
+    },
+
+    "READ_CMD": {
+      "description": "make it true if you want bot auto read commands",
+      "required": false,
+      "value": "true"
+    },
+
+    "READ_MESSAGE": {
+      "description": "Make it true if you want bot read your all sms just now.",
+      "required": true,
       "value": "false"
     },
 
@@ -93,11 +123,29 @@
     
     }, 
 
+    "INBOX_BLOCK": {
+      "description": "make it true if you sure you want to block inbox user.",
+      "required": false,
+      "value": "false"
+   },
+
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
       "value": "✦『𝗞𝗘𝗥𝗠 𝗠𝗗 𝗩1』✦"
-    }, 
+    },
+
+    "AUTO_DOWNLOADING": {
+      "description": "Make it true if you want bot auto Download media from link.",
+      "required": false,
+      "value": "true"
+    },
+
+    "ANTI_CALL": {
+      "description": "Make it true if you want bot automatically decline your call.",
+      "required": false,
+      "value": "false"
+    }
 
     "HEART_REACT": {
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
