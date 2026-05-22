@@ -1,6 +1,6 @@
 {
   "bot-name": "KERM-MD-V1",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kɢ ᴛᴇᴄʜ",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kɢ ᴛᴇᴄʜ🇨🇲",
   "logo": "https://iili.io/BpC2NJj.jpg",
   "keywords": ["bot", "kerm-md", "kermtech"],
   "documentation-link": "https://kerm-md-v1-session-592e1b4b3c9e.herokuapp.com",
@@ -145,7 +145,7 @@
       "description": "Make it true if you want bot automatically decline your call.",
       "required": false,
       "value": "false"
-    }
+    },
 
     "HEART_REACT": {
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
